@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">HorseGame</string>
+    <string name="app_name">HorseGameChallenge</string>
+
+    <string name="title">Horse Challenge</string>
+    <string name="level">Level</string>
+    <string name="moves">Moves</string>
+    <string name="time">Time</string>
+    <string name="lives">Lives</string>
+    <string name="option">Options</string>
+    <string name="instructions">Move the horse over board to complete all cells.</string>
+    <string name="credits">Game created by Gonzalo Olvera Monroy</string>
+
+    <string name="premium">Tap here to remove ads, get more levels and unlimited lives</string>
+    <string name="premiumTitle">Get Premium Access Forever</string>
+    <string name="premiumBenefit1">No more ads</string>
+    <string name="premiumBenefit2">Unlimited levels</string>
+    <string name="premiumBenefit3">Keep your reached level</string>
+    <string name="pay">PAY ONLY 1$ NOW</string>
 </resources>

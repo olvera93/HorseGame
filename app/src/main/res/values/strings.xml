@@ -6,7 +6,7 @@
     <string name="moves">Moves</string>
     <string name="time">Time</string>
     <string name="lives">Lives</string>
-    <string name="option">Options</string>
+    <string name="options">Options</string>
     <string name="instructions">Move the horse over board to complete all cells.</string>
     <string name="credits">Game created by Gonzalo Olvera Monroy</string>
 
